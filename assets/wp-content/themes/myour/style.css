@@ -23,6 +23,11 @@ body {
     -webkit-box-sizing: border-box;
 }
 
+.elementor-carousel-image {
+    display: flex;
+    justify-content: center;
+}
+
 .clear {
     clear: both;
 }
