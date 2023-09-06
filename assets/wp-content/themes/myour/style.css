@@ -5965,3 +5965,11 @@ section.elementor-element:last-child .section {
     content: "\f3e5";
     font-weight: 900;
 }
+
+::-webkit-scrollbar{
+    background-color: #000;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color:rgba(6, 147, 227, 1);
+}
