@@ -1614,7 +1614,7 @@ blockquote {
     .background-bg {
         position: relative;
         width: 100%;
-        height: 70vh;
+        height: 55vh;
     }
     .background-filter.circle {
         clip-path: circle(100% at 50% 0%);
@@ -1625,7 +1625,7 @@ blockquote {
 @media (max-width: 740px) {
     .background-bg {
         
-        height: 80vh;
+        height: 55vh;
     }
 }
 
