@@ -1658,7 +1658,7 @@ blockquote {
 }
 
 .section .titles .title {
-    margin: 0 0 10px 0;
+    margin: 19px 0 10px -4px;
     max-width: 70%;
     font-size: 55px;
     line-height: 1.2;
