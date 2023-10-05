@@ -1628,11 +1628,13 @@ blockquote {
     }
 }
 
-@media (max-width: 720px) {
+@media (max-width: 850px) {
     .background-bg {
         margin: 0;
         height: 95vh;
     }
+
+    
 
     .background-bg > img {
         height: 30vh;
