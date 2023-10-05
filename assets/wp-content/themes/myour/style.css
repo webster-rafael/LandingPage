@@ -1637,6 +1637,10 @@ blockquote {
     .background-bg > img {
         height: 30vh;
     }
+
+    .header .logo {
+        display: inline-block;
+    }
 }
 
 /* - Section */
