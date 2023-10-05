@@ -1562,9 +1562,6 @@ blockquote {
 }
 
 .background-filter .background-img {
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
-    mix-blend-mode: luminosity;
     left: 0;
 }
 
@@ -1608,10 +1605,12 @@ blockquote {
     background-size: cover;
 }
 
+
 @media (max-width: 1280px) {
     .background-bg {
         width: 30%;
-        height: 665px;
+        margin: auto;
+        height: 110%;
     }
 }
 
@@ -1619,7 +1618,7 @@ blockquote {
     .background-bg {
         position: relative;
         width: 100%;
-        height: 59vh;
+        height: 49vh;
     }
     .background-filter.circle {
         clip-path: circle(100% at 50% 0%);
