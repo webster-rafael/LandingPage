@@ -1631,8 +1631,12 @@ blockquote {
 
 @media (max-width: 720px) {
     .background-bg {
-        
+        margin: 0;
         height: 69vh;
+    }
+
+    .background-bg > img {
+        height: 30vh;
     }
 }
 
@@ -1932,7 +1936,7 @@ blockquote {
     }
     .section.started .h-title {
         margin: 0 auto;
-        margin-top: -200px;
+        margin-top: -85px;
         padding: 70px 35px 30px 35px;
         width: 480px;
         font-size: 60px;
@@ -1966,7 +1970,6 @@ blockquote {
         padding-bottom: 50px;
     }
     .section.started .h-title {
-        margin-top: -140px;
         padding: 70px 15px 15px 15px;
         width: auto;
         font-size: 40px;
