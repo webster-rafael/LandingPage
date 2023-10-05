@@ -1605,7 +1605,6 @@ blockquote {
     background-size: cover;
 }
 
-
 @media (max-width: 1280px) {
     .background-bg {
         width: 30%;
@@ -1629,7 +1628,7 @@ blockquote {
 @media (max-width: 720px) {
     .background-bg {
         
-        height: 59vh;
+        height: 72vh;
     }
 }
 
