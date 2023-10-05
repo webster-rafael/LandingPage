@@ -1631,13 +1631,10 @@ blockquote {
 @media (max-width: 850px) {
     .background-bg {
         margin: 0;
-        height: 80vh;
+        height: 75vh;
     }
-
-    
-
     .background-bg > img {
-        height: 20vh;
+        height: 30vh;
     }
 }
 
