@@ -1110,6 +1110,10 @@ blockquote {
     
 }
 
+.logo:hover {
+    transform:scale(1.1)
+}
+
 .header .logo img.logo-img {
     margin-right: 30px;
     width: auto;
@@ -1628,7 +1632,7 @@ blockquote {
 @media (max-width: 720px) {
     .background-bg {
         
-        height: 72vh;
+        height: 69vh;
     }
 }
 
