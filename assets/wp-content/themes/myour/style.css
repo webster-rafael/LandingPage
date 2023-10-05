@@ -1098,6 +1098,7 @@ blockquote {
     font-weight: 800;
     color: #FFF;
     align-items: center;
+    display: none;
 }
 
 
@@ -1115,7 +1116,7 @@ blockquote {
 }
 
 .header .logo img.logo-img {
-    margin-right: 30px;
+    margin-right: 50px;
     width: auto;
     height: auto;
     max-width: 36px;
@@ -1612,7 +1613,7 @@ blockquote {
 @media (max-width: 1280px) {
     .background-bg {
         width: 30%;
-        height: 130vh;
+        height: 100vh;
     }
 }
 
@@ -1631,11 +1632,8 @@ blockquote {
 @media (max-width: 850px) {
     .background-bg {
         margin: 0;
-        height: 95vh;
+        height: 81vh;
     }
-
-    
-
     .background-bg > img {
         height: 30vh;
     }
