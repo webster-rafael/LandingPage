@@ -1631,7 +1631,7 @@ blockquote {
 @media (max-width: 850px) {
     .background-bg {
         margin: 0;
-        height: 75vh;
+        height: 78vh;
     }
     .background-bg > img {
         height: 30vh;
